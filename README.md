@@ -73,7 +73,7 @@ Founded and directed an interdisciplinary research network. Led programs at NYU 
 | [Perpetuating the Myth of the Return of Native Forests](https://doi.org/10.1126/sciadv.1601768) *(**Van Holt** & Putz)* | Science Advances | 2017 |
 | [Structure of Ethnic Violence in Sudan: Semi-Automated Network Analysis](https://doi.org/10.1007/s10588-012-9119-4) *(**Van Holt**, Johnson et al.)* | Computational & Mathematical Organization Theory | 2012 |
 
-*Full list on [Google Scholar](https://scholar.google.com)*
+*Full list on [Google Scholar]([https://scholar.google.com](https://scholar.google.com/citations?user=zh3VP1EAAAAJ&hl=en)*
 
 ---
 
