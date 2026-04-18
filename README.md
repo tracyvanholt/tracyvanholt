@@ -69,7 +69,7 @@ Founded and directed an interdisciplinary research network. Led programs at NYU 
 | [Fishery Improvement Projects as a Governance Tool](https://doi.org/10.1371/journal.pone.0223054) *(Crona, Käll, **Van Holt**)* | PLoS One | 2019 |
 | [Perpetuating the Myth of the Return of Native Forests](https://doi.org/10.1126/sciadv.1601768) *(**Van Holt** & Putz)* | Science Advances | 2017 |
 | [A Social Wellbeing in Fisheries Tool (SWIFT)](https://doi.org/10.3390/su8080667) *(**Van Holt**, Weisman et al.)* | Sustainability | 2016 |
-| [Using Social–Ecological Syndromes to Understand Impacts of Seafood Trade](https://doi.org/10.1016/j.gloenvcha.2015.07.006) *(**Van Holt**, Crona et al.)* | Global Environmental Change | 2015 |
+| [Using Social–Ecological Syndromes to Understand Impacts of Seafood Trade](https://doi.org/10.1016/j.gloenvcha.2015.07.006) *(Crona,**Van Holt**,  et al.)* | Global Environmental Change | 2015 |
 | [Influence of Landscape Change on Nearshore Fisheries in Southern Chile](https://doi.org/10.1111/j.1365-2486.2012.02677.x) *(**Van Holt**, Moreno et al.)* | Global Change Biology | 2012 |
 | [Structure of Ethnic Violence in Sudan: Semi-Automated Network Analysis](https://doi.org/10.1007/s10588-012-9119-4) *(**Van Holt**, Johnson et al.)* | Computational & Mathematical Organization Theory | 2012 |
 | [Assessing Local Knowledge of Game Abundance Using Consensus Analysis](https://doi.org/10.1007/s10745-010-9354-2) *(**Van Holt**, Townsend, Cronkleton)* | Human Ecology | 2010 |
