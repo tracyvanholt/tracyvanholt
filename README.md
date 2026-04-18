@@ -69,12 +69,12 @@ Founded and directed an interdisciplinary research network. Led programs at NYU 
 | [Fishery Improvement Projects as a Governance Tool](https://doi.org/10.1371/journal.pone.0223054) *(Crona, Käll, **Van Holt**)* | PLoS One | 2019 |
 | [Perpetuating the Myth of the Return of Native Forests](https://doi.org/10.1126/sciadv.1601768) *(**Van Holt** & Putz)* | Science Advances | 2017 |
 | [A Social Wellbeing in Fisheries Tool (SWIFT)](https://doi.org/10.3390/su8080667) *(**Van Holt**, Weisman et al.)* | Sustainability | 2016 |
-| [Using Social–Ecological Syndromes to Understand Impacts of Seafood Trade](https://doi.org/10.1016/j.gloenvcha.2015.07.006) *(Crona,**Van Holt**,  et al.)* | Global Environmental Change | 2015 |
+| [Using Social–Ecological Syndromes to Understand Impacts of Seafood Trade](https://doi.org/10.1016/j.gloenvcha.2015.07.006) *(Crona, **Van Holt** et al.)* | Global Environmental Change | 2015 |
 | [Influence of Landscape Change on Nearshore Fisheries in Southern Chile](https://doi.org/10.1111/j.1365-2486.2012.02677.x) *(**Van Holt**, Moreno et al.)* | Global Change Biology | 2012 |
 | [Structure of Ethnic Violence in Sudan: Semi-Automated Network Analysis](https://doi.org/10.1007/s10588-012-9119-4) *(**Van Holt**, Johnson et al.)* | Computational & Mathematical Organization Theory | 2012 |
 | [Assessing Local Knowledge of Game Abundance Using Consensus Analysis](https://doi.org/10.1007/s10745-010-9354-2) *(**Van Holt**, Townsend, Cronkleton)* | Human Ecology | 2010 |
 
-*Full list on [Google Scholar](https://scholar.google.com/citations?user=zh3VP1EAAAAJ&hl=en)*
+*Full list on [Google Scholar](https://scholar.google.com/citations?user=Srk2uEMAAAAJ)*
 
 ---
 
@@ -111,6 +111,29 @@ Founded and directed an interdisciplinary research network. Led programs at NYU 
 **Off-Site Research (data & remote analysis):** Sri Lanka · Rwanda · Sudan & South Sudan
 
 **Languages:** Spanish (fluent) · Portuguese & Swedish (conversational) · Mapudugun & Guarayo (working knowledge)
+
+---
+
+## 📂 Publication Archive
+
+PDFs of peer-reviewed publications are in the [`papers/`](papers/) folder, organized as `Author_Year_ShortTitle_Journal.pdf`.
+
+| File | Title | Journal | Year |
+|---|---|---|---|
+| [Crona_VanHolt_2015...](papers/Crona_VanHolt_2015_SeafoodTrade_SmallScaleFisheries_GEC.pdf) | Using Social-Ecological Syndromes to Understand Impacts of Seafood Trade | *Global Environmental Change* | 2015 |
+| [VanHolt_2012_LandscapeInfluences...](papers/VanHolt_2012_LandscapeInfluences_FisherSuccess_EcolSoc.pdf) | Landscape Influences on Fisher Success | *Ecology & Society* | 2012 |
+| [VanHolt_2012_LandscapeChange...](papers/VanHolt_2012_LandscapeChange_NearshoreChile_GCB.pdf) | Influence of Landscape Change on Nearshore Fisheries in Southern Chile | *Global Change Biology* | 2012 |
+| [VanHolt_2012_SudanViolence...](papers/VanHolt_2012_SudanViolence_NetworkAnalysis_CMOT.pdf) | Structure of Ethnic Violence in Sudan: Semi-Automated Network Analysis | *Computational & Mathematical Organization Theory* | 2012 |
+| [VanHolt_2013_RapidEthnographic...](papers/VanHolt_2013_RapidEthnographic_CulturalMapping_Poetics.pdf) | Rapid Ethnographic Assessment for Cultural Mapping | *Poetics* | 2013 |
+| [VanHolt_2016_ExpertEffect...](papers/VanHolt_2016_ExpertEffect_CulturalModels_HDW.pdf) | Influence of the Expert Effect on Cultural Models | *Human Dimensions of Wildlife* | 2016 |
+| [VanHolt_2016_TreePlantations...](papers/VanHolt_2016_TreePlantations_ForestTransitions_LUP.pdf) | A Stand of Trees Does Not a Forest Make: Tree Plantations and Forest Transitions | *Land Use Policy* | 2016 |
+| [VanHolt_Weisman_2016...](papers/VanHolt_Weisman_2016_GlobalProductionNetworks_COES.pdf) | Global Production Network Mapping for Transforming Socio-Ecological Systems | *Current Opinion in Environmental Sustainability* | 2016 |
+| [VanHolt_2016_SWIFT...](papers/VanHolt_2016_SWIFT_FisheriesWellbeing_Sustainability.pdf) | A Social Wellbeing in Fisheries Tool (SWIFT) | *Sustainability* | 2016 |
+| [VanHolt_2016_Datasets...](papers/VanHolt_2016_Datasets_ScientificInfluence_PLoSONE.pdf) | The Role of Datasets on Scientific Influence within Conflict Research | *PLoS ONE* | 2016 |
+| [VanHolt_2017_LandscapeChange...](papers/VanHolt_2017_LandscapeChange_FishingStrategies_STOTEN.pdf) | The Consequences of Landscape Change on Fishing Strategies | *Science of the Total Environment* | 2017 |
+| [Caspersen_VanHolt_2017...](papers/Caspersen_VanHolt_2017_ParticipatoryMapping_FieldMethods.pdf) | Measuring Agreement in Participatory Mapping | *Field Methods* | 2017 |
+| [Atz_VanHolt_2019_ROSI...](papers/Atz_VanHolt_2019_ROSI_Sustainability_ReviewBusiness.pdf) | The Return on Sustainability Investment (ROSI) | *Review of Business* | 2019 |
+| [VanHolt_2020_CulturalConsensus...](papers/VanHolt_2020_CulturalConsensus_SustainabilityInnovation_BSE.pdf) | The Cultural Consensus of Sustainability-Driven Innovation | *Business Strategy & the Environment* | 2020 |
 
 ---
 
