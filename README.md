@@ -116,24 +116,24 @@ Founded and directed an interdisciplinary research network. Led programs at NYU 
 
 ## 📂 Publication Archive
 
-PDFs of peer-reviewed publications are in the [`papers/`](papers/) folder, organized as `Author_Year_ShortTitle_Journal.pdf`.
+PDFs of peer-reviewed publications are organized as `Author_Year_ShortTitle_Journal.pdf` and available directly in this repository.
 
 | File | Title | Journal | Year |
 |---|---|---|---|
-| [Crona_VanHolt_2015...](papers/Crona_VanHolt_2015_SeafoodTrade_SmallScaleFisheries_GEC.pdf) | Using Social-Ecological Syndromes to Understand Impacts of Seafood Trade | *Global Environmental Change* | 2015 |
-| [VanHolt_2012_LandscapeInfluences...](papers/VanHolt_2012_LandscapeInfluences_FisherSuccess_EcolSoc.pdf) | Landscape Influences on Fisher Success | *Ecology & Society* | 2012 |
-| [VanHolt_2012_LandscapeChange...](papers/VanHolt_2012_LandscapeChange_NearshoreChile_GCB.pdf) | Influence of Landscape Change on Nearshore Fisheries in Southern Chile | *Global Change Biology* | 2012 |
-| [VanHolt_2012_SudanViolence...](papers/VanHolt_2012_SudanViolence_NetworkAnalysis_CMOT.pdf) | Structure of Ethnic Violence in Sudan: Semi-Automated Network Analysis | *Computational & Mathematical Organization Theory* | 2012 |
-| [VanHolt_2013_RapidEthnographic...](papers/VanHolt_2013_RapidEthnographic_CulturalMapping_Poetics.pdf) | Rapid Ethnographic Assessment for Cultural Mapping | *Poetics* | 2013 |
-| [VanHolt_2016_ExpertEffect...](papers/VanHolt_2016_ExpertEffect_CulturalModels_HDW.pdf) | Influence of the Expert Effect on Cultural Models | *Human Dimensions of Wildlife* | 2016 |
-| [VanHolt_2016_TreePlantations...](papers/VanHolt_2016_TreePlantations_ForestTransitions_LUP.pdf) | A Stand of Trees Does Not a Forest Make: Tree Plantations and Forest Transitions | *Land Use Policy* | 2016 |
-| [VanHolt_Weisman_2016...](papers/VanHolt_Weisman_2016_GlobalProductionNetworks_COES.pdf) | Global Production Network Mapping for Transforming Socio-Ecological Systems | *Current Opinion in Environmental Sustainability* | 2016 |
-| [VanHolt_2016_SWIFT...](papers/VanHolt_2016_SWIFT_FisheriesWellbeing_Sustainability.pdf) | A Social Wellbeing in Fisheries Tool (SWIFT) | *Sustainability* | 2016 |
-| [VanHolt_2016_Datasets...](papers/VanHolt_2016_Datasets_ScientificInfluence_PLoSONE.pdf) | The Role of Datasets on Scientific Influence within Conflict Research | *PLoS ONE* | 2016 |
-| [VanHolt_2017_LandscapeChange...](papers/VanHolt_2017_LandscapeChange_FishingStrategies_STOTEN.pdf) | The Consequences of Landscape Change on Fishing Strategies | *Science of the Total Environment* | 2017 |
-| [Caspersen_VanHolt_2017...](papers/Caspersen_VanHolt_2017_ParticipatoryMapping_FieldMethods.pdf) | Measuring Agreement in Participatory Mapping | *Field Methods* | 2017 |
-| [Atz_VanHolt_2019_ROSI...](papers/Atz_VanHolt_2019_ROSI_Sustainability_ReviewBusiness.pdf) | The Return on Sustainability Investment (ROSI) | *Review of Business* | 2019 |
-| [VanHolt_2020_CulturalConsensus...](papers/VanHolt_2020_CulturalConsensus_SustainabilityInnovation_BSE.pdf) | The Cultural Consensus of Sustainability-Driven Innovation | *Business Strategy & the Environment* | 2020 |
+| [Crona_VanHolt_2015...](Crona_VanHolt_2015_SeafoodTrade_SmallScaleFisheries_GEC.pdf) | Using Social-Ecological Syndromes to Understand Impacts of Seafood Trade | *Global Environmental Change* | 2015 |
+| [VanHolt_2012_LandscapeInfluences...](VanHolt_2012_LandscapeInfluences_FisherSuccess_EcolSoc.pdf) | Landscape Influences on Fisher Success | *Ecology & Society* | 2012 |
+| [VanHolt_2012_LandscapeChange...](VanHolt_2012_LandscapeChange_NearshoreChile_GCB.pdf) | Influence of Landscape Change on Nearshore Fisheries in Southern Chile | *Global Change Biology* | 2012 |
+| [VanHolt_2012_SudanViolence...](VanHolt_2012_SudanViolence_NetworkAnalysis_CMOT.pdf) | Structure of Ethnic Violence in Sudan: Semi-Automated Network Analysis | *Computational & Mathematical Organization Theory* | 2012 |
+| [VanHolt_2013_RapidEthnographic...](VanHolt_2013_RapidEthnographic_CulturalMapping_Poetics.pdf) | Rapid Ethnographic Assessment for Cultural Mapping | *Poetics* | 2013 |
+| [VanHolt_2016_ExpertEffect...](VanHolt_2016_ExpertEffect_CulturalModels_HDW.pdf) | Influence of the Expert Effect on Cultural Models | *Human Dimensions of Wildlife* | 2016 |
+| [VanHolt_2016_TreePlantations...](VanHolt_2016_TreePlantations_ForestTransitions_LUP.pdf) | A Stand of Trees Does Not a Forest Make: Tree Plantations and Forest Transitions | *Land Use Policy* | 2016 |
+| [VanHolt_Weisman_2016...](VanHolt_Weisman_2016_GlobalProductionNetworks_COES.pdf) | Global Production Network Mapping for Transforming Socio-Ecological Systems | *Current Opinion in Environmental Sustainability* | 2016 |
+| [VanHolt_2016_SWIFT...](VanHolt_2016_SWIFT_FisheriesWellbeing_Sustainability.pdf) | A Social Wellbeing in Fisheries Tool (SWIFT) | *Sustainability* | 2016 |
+| [VanHolt_2016_Datasets...](VanHolt_2016_Datasets_ScientificInfluence_PLoSONE.pdf) | The Role of Datasets on Scientific Influence within Conflict Research | *PLoS ONE* | 2016 |
+| [VanHolt_2017_LandscapeChange...](VanHolt_2017_LandscapeChange_FishingStrategies_STOTEN.pdf) | The Consequences of Landscape Change on Fishing Strategies | *Science of the Total Environment* | 2017 |
+| [Caspersen_VanHolt_2017...](Caspersen_VanHolt_2017_ParticipatoryMapping_FieldMethods.pdf) | Measuring Agreement in Participatory Mapping | *Field Methods* | 2017 |
+| [Atz_VanHolt_2019_ROSI...](Atz_VanHolt_2019_ROSI_Sustainability_ReviewBusiness.pdf) | The Return on Sustainability Investment (ROSI) | *Review of Business* | 2019 |
+| [VanHolt_2020_CulturalConsensus...](VanHolt_2020_CulturalConsensus_SustainabilityInnovation_BSE.pdf) | The Cultural Consensus of Sustainability-Driven Innovation | *Business Strategy & the Environment* | 2020 |
 
 ---
 
